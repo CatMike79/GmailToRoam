@@ -9,6 +9,8 @@ Script to Import emails to Roam
 5. Relaunch your browser
 6. Launch gmailToRoam.exe
 
+Now when you have a gmail tab open along with a roam research tab, you can press F7 to import the email into roam
+
 I recorded a little video of these instructions:
 https://www.loom.com/share/a08a80a0eb144aaabcc80b2848f77648
 
