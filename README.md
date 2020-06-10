@@ -8,3 +8,6 @@ Script to Import emails to Roam
 4. After the second quotation mark, at the end of the "Target" text box add " --remote-debugging-port=9222" (Without quotes) to the end of the string.
 5. Relaunch your browser
 6. Launch gmailToRoam.exe
+
+I recorded a little video of these instructions:
+https://www.loom.com/share/a08a80a0eb144aaabcc80b2848f77648
