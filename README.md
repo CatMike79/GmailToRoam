@@ -1,7 +1,7 @@
 # GmailToRoam
 Script to Import emails to Roam
 
-#Instructions
+# Instructions
 1. Right click the chrome shortcut on your taskbar
 2. Right click "Chrome" in the menu. (It should be the 3rd entry from the bottom)
 3. Press "Properties"
