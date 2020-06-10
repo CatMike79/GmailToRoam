@@ -11,3 +11,5 @@ Script to Import emails to Roam
 
 I recorded a little video of these instructions:
 https://www.loom.com/share/a08a80a0eb144aaabcc80b2848f77648
+
+I included the .exe along with the .ahk but you don't need the .ahk. I only included that in case you want to see what's in the .exe
