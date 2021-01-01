@@ -6,7 +6,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 F7::
-    gmailPage := Chrome.getPageByURL("https://mail.google.com/mail/u/", "startswith")
+    gmailPage := Chrome.getPageByURL("https://mail.google.com/mail/u/0/", "startswith")
 
     js = document.querySelectorAll("[data-message-id]")[0].querySelector("[data-hovercard-id]").getAttribute("jid")
     from := gmailPage.Evaluate(js).value
